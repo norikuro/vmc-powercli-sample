@@ -1,0 +1,1 @@
+# vmc-powercli-sample
